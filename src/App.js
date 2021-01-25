@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React, { useEffect,useState } from "react";
 import SpotifyWebApi from "spotify-web-api-js";
 import { useStateValue } from "./StateProvider";
 import Player from "./Player";
