@@ -20,7 +20,7 @@ function Sidebar() {
       />
       <SidebarOption Icon={HomeIcon} option="Home" />
       <SidebarOption Icon={SearchIcon} option="Search" />
-      <SidebarOption Icon={LibraryMusicIcon} option="Your Library" />
+      <SidebarOption Icon={LibraryMusicIcon} option="Library" />
       <br />
       <strong className="sidebar__title">PLAYLISTS</strong>
       <hr />
