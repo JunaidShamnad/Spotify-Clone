@@ -25,6 +25,10 @@
     margin-top: 20px;
     margin-bottom: 20px;
   }
+
+  .body__shuffle:hover{
+      color: #1db954;
+  }
   
   .body__icons {
     display: flex;

@@ -15,7 +15,7 @@ function Sidebar() {
     <div className="sidebar">
       <img
         className="sidebar__logo"
-        src="https://getheavy.com/wp-content/uploads/2019/12/spotify2019-830x350.jpg"
+        src="https://1000marcas.net/wp-content/uploads/2019/12/Spotify-logotipo.jpg"
         alt=""
       />
       <SidebarOption Icon={HomeIcon} option="Home" />

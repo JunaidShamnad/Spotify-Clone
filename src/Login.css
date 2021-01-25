@@ -6,7 +6,9 @@
   }
   
   .login > img {
-    height: 200px;
+    height: 400px;
+    cursor: pointer;
+    
   }
   
   .login > a {
@@ -17,4 +19,15 @@
     font-weight: 600;
     background-color: #1db954;
     letter-spacing: 2px;
+  }
+
+  .login >p{
+    color: #fff;
+    font-size: 16px;
+  }
+
+  .login >p span{
+    font-size: 18px;
+    color: red;
+    height: 20px;
   }
